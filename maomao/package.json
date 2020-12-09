@@ -1,0 +1,25 @@
+{
+  "name": "maomao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run-electron.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fontawesome-pro-all": "^4.12.0",
+    "p5": "^1.0.0",
+    "planck-js": "^0.3.13",
+    "socket.io-client": "^2.3.0",
+    "three": "^0.116.1",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.1.2",
+    "less": "^3.11.1",
+    "vue-template-compiler": "^2.6.11"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "vision-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run-electron.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/handpose": "0.0.4",
+    "@tensorflow-models/posenet": "^2.2.1",
+    "@tensorflow/tfjs-converter": "^1.7.4",
+    "@tensorflow/tfjs-core": "^1.7.4",
+    "@tensorflow/tfjs-node": "^2.0.0",
+    "babel-polyfill": "^6.26.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "face-api.js": "^0.22.2",
+    "fingerpose": "0.0.2",
+    "p5": "^1.0.0",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0"
+  }
+}
