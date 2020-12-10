@@ -1,0 +1,1 @@
+wget https://paddlejs.cdn.bcebos.com/models/gesture/gesture_detect/model.json
